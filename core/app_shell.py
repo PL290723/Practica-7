@@ -9,7 +9,6 @@ from presenters.login_presenter import LoginPresenter
 
 class AppShell(QStackedWidget):
     PAGE_LOGIN = 0
-    PAGE_LOGIN = 0
     PAGE_MAIN = 1
     PAGE_STUDENT = 2
     PAGE_TEACHER = 3

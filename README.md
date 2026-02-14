@@ -16,9 +16,9 @@ El sistema cuenta con los siguientes usuarios predefinidos para pruebas:
 
 | Rol | Usuario | Contraseña |
 | --- | --- | --- |
-| Administrador | `admin` | `admin123` |
-| Estudiante | `estudiante` | `estudiante123` |
-| Maestro | `maestro` | `maestro123` |
+| Administrador | `admin` | `1234` |
+| Estudiante | `estudiante` | `1234` |
+| Maestro | `maestro` | `1234` |
 
 ## Requisitos
 - Python 3.x
